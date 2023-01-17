@@ -2,8 +2,11 @@
 /ᐢ⑅ᐢ\ ♡ ₊˚
 ꒰ ˶• ༝ •˶꒱ ♡‧₊˚ ♡ ./づ~ :¨·.·¨: ₊˚
 `·..·‘ ₊˚ ♡
+
 https://xideaaa.github.io/
+
 https://github.com/xideaaa/Mixing-Tokens-with-Fourier-Transforms
+
 https://paperswithcode.com/paper/fnet-mixing-tokens-with-fourier-transforms#code
 
 <!--
