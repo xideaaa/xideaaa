@@ -3,6 +3,8 @@
 ꒰ ˶• ༝ •˶꒱ ♡‧₊˚ ♡ ./づ~ :¨·.·¨: ₊˚
 `·..·‘ ₊˚ ♡
 https://xideaaa.github.io/
+https://github.com/xideaaa/Mixing-Tokens-with-Fourier-Transforms
+https://paperswithcode.com/paper/fnet-mixing-tokens-with-fourier-transforms#code
 
 <!--
 **xideaaa/xideaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
